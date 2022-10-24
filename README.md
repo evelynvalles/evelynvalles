@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B242D&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Full-Stack+Web+Developer;Passionate+about+coding+and+traveling!)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B242D&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Full-Stack+Web+Developer;Passionate+about+coding+and+traveling!" alt="Typing SVG" />
 </p>
 
 ## 🛠️ My favorite tools
