@@ -15,6 +15,8 @@
 
 - ❤️ I love writing in Javascript and Java!
 
+- 💻 I’m interested in solving challenging problems and building things that help connect people.
+
 ### 🧰 Frameworks and Libraries
 
 <p>
