@@ -7,6 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B242D&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Full-Stack+Web+Developer;Passionate+about+coding+and+traveling!" alt="Typing SVG" />
 </p>
 
+**About me**
+
+- 💼 I am full-stack developer with a passion for building new things and being productive. 
+
+- 📈 I'm a coding bootcamp graduate from Coding Dojo
+
+- ❤️ I love writing Javascript and Java!
+
 ### 🧰 Frameworks and Libraries
 
 <p>
