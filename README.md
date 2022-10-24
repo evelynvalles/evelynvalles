@@ -20,3 +20,23 @@
     <a href="https://github.com/evelynvalles/Coding-Dojo-Python-Stack"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?&logo=GitHub"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-000?&logo=Amazon AWS"></a>
+    <a href="#"><img alt="Spring Tool Suite" src="https://img.shields.io/badge/Spring Security-000?&logo=Spring security"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-000?&logo=Thymeleaf"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-000?&logo=Socket.io"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+</p>
+
+<h2  align="center">📫 Reach Me On</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/evelynvalles/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  <a href="mailto:evelynvalles7@gmail.com?subject=Hello%20Evelyn,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
