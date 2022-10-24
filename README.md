@@ -7,7 +7,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B242D&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Full-Stack+Web+Developer;Passionate+about+coding+and+traveling!" alt="Typing SVG" />
 </p>
 
-## 🛠️ My Tools
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-000?&logo=Spring"></a>
+    <a href="#"><img alt="Jinja" src="https://img.shields.io/badge/Jinja-000?&logo=Jinja"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+</p>
+
+### 🛠️ My Tools
 
 <p>
     <a href="https://github.com/evelynvalles/Travel.com-Python-Project"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
