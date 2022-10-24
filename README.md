@@ -13,7 +13,7 @@
 
 - 📈 I'm a coding bootcamp graduate from Coding Dojo
 
-- ❤️ I love writing Javascript and Java!
+- ❤️ I love writing in Javascript and Java!
 
 ### 🧰 Frameworks and Libraries
 
