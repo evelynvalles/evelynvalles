@@ -9,7 +9,7 @@
 
 **About me**
 
-- 💼 I am full-stack developer with a passion for building new things and being productive. 
+- 💼 I'm a full-stack developer with a passion for building new things and being productive. 
 
 - 📈 I'm a coding bootcamp graduate from Coding Dojo
 
