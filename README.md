@@ -13,7 +13,7 @@
 
 - 📈 I'm a coding bootcamp graduate from Coding Dojo
 
-- ❤️ I love writing in Javascript and Java!
+- ❤️ I love writing in TypeScript and Java!
 
 - 💻 I’m interested in solving challenging problems and building things that help connect people.
 
